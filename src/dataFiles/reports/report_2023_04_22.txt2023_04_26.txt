@@ -1,0 +1,6 @@
+*********** Order List (2023_04_26) ***********
+Order ID:   1  StaffName:Srushti Hampannavar             Total:Rs.170.00 
+Order ID:   2  StaffName:Srushti Hampannavar             Total:Rs.0.00  
+Order ID:   3  StaffName:Srushti Hampannavar             Total:Rs.2975.00 
+-------------------------------------------------------
+Total sales:Rs.3145.0(3)  Canceled:Rs.0.0(0)
